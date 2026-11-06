@@ -65,7 +65,7 @@ K-Means Clustering (Unsupervised Learning)
 - customer_scatter.png
 - elbow_method.png
 - customer_clusters.png
-- segmented_customers.csv
+  
 
 ## Conclusion
 The K-Means clustering algorithm successfully segmented 200 mall customers into five groups based on annual income and spending score. This analysis can help businesses understand customer behaviour and develop targeted marketing strategies.
