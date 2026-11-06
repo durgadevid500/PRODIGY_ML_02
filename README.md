@@ -64,7 +64,7 @@ K-Means Clustering (Unsupervised Learning)
 - age_distribution.png
 - customer_scatter.png
 - elbow_method.png
-- customer_clusters.png
+- spending_score.png
   
 
 ## Conclusion
